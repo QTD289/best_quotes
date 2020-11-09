@@ -1,0 +1,20 @@
+GIT
+  remote: https://github.com/qtd289/rulers
+  revision: 55281acbfa671dfbda208cf72a3f4e9adced9ae0
+  specs:
+    rulers (0.0.2)
+      rack
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (2.2.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rulers!
+
+BUNDLED WITH
+   2.1.4
