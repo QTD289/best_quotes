@@ -3,15 +3,25 @@ GIT
   revision: 55281acbfa671dfbda208cf72a3f4e9adced9ae0
   specs:
     rulers (0.0.2)
+      erubi
+      multi_json
+      pry
       rack
 
 GEM
   remote: https://rubygems.org/
   specs:
+    coderay (1.1.3)
+    erubi (1.10.0)
     ffi (1.13.1)
     listen (3.3.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
+    method_source (1.0.0)
+    multi_json (1.15.0)
+    pry (0.13.1)
+      coderay (~> 1.1)
+      method_source (~> 1.0)
     rack (2.2.3)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
